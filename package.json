@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "web_dota2",
+  "description": "Deploy Static html to heroku",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aongxsss/Deployweb-Dota2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aongxsss/Deployweb-Dota2/issues"
+  },
+  "homepage": "https://github.com/aongxsss/Deployweb-Dota2#readme"
+}
